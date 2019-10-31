@@ -1,6 +1,7 @@
-# hello-world
-Just anoither repository for git quiz
+# Holloworld
 
 ##Hello world!
-I am testing posibilties of GitHub.
-Hope it will be **usefull** for me in the future for example in learning Python
+I am testing posibilties of GitHub asexcercise demands this.
+Hope it will be usefull for me in the future.
+I am planning to use this skills for learning ** Python **
+Over!
